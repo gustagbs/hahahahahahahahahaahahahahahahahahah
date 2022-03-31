@@ -1,0 +1,13 @@
+Spēlēs Noteikumi
+
+Esi sveicināts spēlē "Tūrisma rallijs Liepāja 2022"!
+
+- Tu pārvietosies ar elektroauto no Valmieras līdz Liepājai. Pa ceļam ir iekļauti 10 dažādi kontrolpunkti. Tabulā vari redzēt attālumus starp tiem.
+
+- Lai dotos tālāk, tev jāatbild uz uzdoto jautājumu par šo kontrolpunktu. Ja atbilde būs pareiza, tev jāievada nākamā kontrolpunkta vai uzpildes stacijas (uz kuru vēlies doties) identifikators, kā tas redzams tabulā.
+
+- Elektroauto akumulatora līmenis spēles sākumā ir 100%. Jo tālāks pārvietošanās attālums starp kontrolpunktiem jo vairāk samazināsies auto uzlādes līmenis. Labos laikapstākļos tas varēs nobraukt 140 kilometrus, savukārt sliktos laikapstākļos - 80 kilometrus.
+
+- Par katru pareizi atrisināto jautājumu, tev tiks piešķirti bonusa punkti, kurus varēsi izmantot elektroauto uzlādei. Ja uzlādes līmenis sasniegs 0% pirms esi nonācis līdz uzlādes stacijai, tev būs jāizvēlas stacija uz kuru doties un tavs bonusa punktu skaits samazināsies.
+
+- Ja vēlies vēlreiz apskatīt spēles noteikumus, ievadi "noteikumi".

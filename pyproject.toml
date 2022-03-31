@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "repl_nix_hahahahahahahahahaahahahahahahahahah"
+version = "0.1.0"
+description = ""
+authors = ["gustavs4f0 <<>>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+prettytable = "^3.2.0"
+colorama = "^0.4.4"
+pandas = "^1.4.1"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
